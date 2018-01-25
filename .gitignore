@@ -1,3 +1,6 @@
+# go modules
+src/
+
 # Binaries for programs and plugins
 *.exe
 *.dll
